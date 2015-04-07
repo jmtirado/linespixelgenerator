@@ -1,0 +1,899 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TableLayout
+        android:id="@+id/tablelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c00"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c01"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c02"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c03"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c04"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c05"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c06"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c07"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c08"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c09"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c10"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c11"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c12"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c13"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c14"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c15"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c16"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c17"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c18"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c19"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c20"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c21"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c22"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c23"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c24"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c25"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c26"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c27"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c28"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c29"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c30"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c31"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c32"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c33"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c34"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c35"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c36"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c37"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c38"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c39"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c40"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c41"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c42"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c43"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c44"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c45"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c46"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c47"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c48"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c49"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c50"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c51"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c52"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c53"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c54"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c55"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c56"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c57"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c58"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c59"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c60"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c61"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c62"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c63"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c64"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c65"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c66"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c67"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c68"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c69"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c70"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c71"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c72"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c73"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c74"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c75"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c76"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c77"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c78"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c79"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/c80"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c81"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c82"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c83"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c84"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c85"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c86"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c87"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c88"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c89"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             >
+
+            <TextView
+                android:id="@+id/c90"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c91"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c92"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c93"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c94"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c95"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c96"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c97"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c98"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+            <TextView
+                android:id="@+id/c99"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/cellstyle"
+                android:clickable="true"
+                android:onClick="onClick" />
+
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:id="@+id/genline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/clean"
+        android:layout_alignBottom="@+id/clean"
+        android:layout_alignLeft="@+id/tablelayout"
+        android:layout_marginLeft="28dp"
+        android:text="Genenarte Line" />
+
+    <Button
+        android:id="@+id/clean"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/tablelayout"
+        android:layout_marginBottom="39dp"
+        android:layout_marginRight="40dp"
+        android:text="Clean" />
+
+</RelativeLayout>

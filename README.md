@@ -1,2 +1,7 @@
-# linespixelgenerator
-Simple app in Android to show aliasing how it works
+# Lines Pixel Generator
+
+Is a simple app that made in 2013 to show how aliasing works.
+
+# Requirements
+
+* Android Studio
